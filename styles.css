@@ -249,7 +249,7 @@ nav ul li a:hover, nav ul li a.active {
 #skills ol li::after {
     inset: 0;
     position: absolute;
-    border-radius: 50%;
+    border-radius: 40%;
     border: var(--borderS) solid #c60078;
     line-height: 1.1;
 }
